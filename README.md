@@ -14,6 +14,7 @@ Click on the planet at the bottom to send out the message.
 
 After the conclusion of the game jam, we decided we'd like to revisit this project and continue working on it, to hopefully
 publish it to the play store. 
+
 Some areas we'd like to improve on are: 
 - simplify game play, get rid of the riddles and have the game be a puzzle game only
 - get rid of the UI bar that appears when rotating satellites, have it so that you can drag anywhere on screen to rotate
@@ -21,8 +22,13 @@ Some areas we'd like to improve on are:
 - add obstacles to the game, such as blackholes and moving asteroids
 - add different types of satellites, eg: delay satellites and moving satellites
 
+To test the game on your phone, plug in your android device to your PC. Make sure its debugging mode is on. 
+Start the project in Unity.
+Go to File >> Build & Run. 
+It should automatically save the .apk file to the existing build folder, and run the project on your phone. 
+
 Team:
 
-Miguel Favero
-Juan Toro
-Andrew Puntillo
+-Miguel Favero
+-Juan Toro
+-Andrew Puntillo
